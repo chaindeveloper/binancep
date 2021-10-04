@@ -1,0 +1,45 @@
+bm socket started
+Press Enter to continue...Top Ticks
+[31mSymbol:AKROUSDT	 Time:2021-06-12 17:06:29.609000	 Ticks:1	 RPCh:-0.06	 TPCh:0.06	 VCh:0.09	 LP:0.021005	 LV:193766718.0	[0m
+
+Top Ticks
+[31mSymbol:LTCUPUSDT	 Time:2021-06-12 17:06:34.569000	 Ticks:1	 RPCh:-0.10	 TPCh:0.10	 VCh:0.11	 LP:4.77	 LV:413712.45	[0m
+
+Top Ticks
+[32mSymbol:FORTHUSDT	 Time:2021-06-12 17:06:35.594000	 Ticks:1	 RPCh:0.41	 TPCh:0.41	 VCh:0.06	 LP:16.289	 LV:224477.54	[0m
+
+Top Ticks
+[31mSymbol:CTXCUSDT	 Time:2021-06-12 17:06:37.583000	 Ticks:1	 RPCh:-0.34	 TPCh:0.34	 VCh:0.08	 LP:0.2033	 LV:58697832.4	[0m
+
+Top Ticks
+[31mSymbol:PERLUSDT	 Time:2021-06-12 17:06:38.612000	 Ticks:1	 RPCh:-0.61	 TPCh:0.61	 VCh:0.11	 LP:0.06036	 LV:43513749.9	[0m
+
+Top Ticks
+[31mSymbol:BTCUPUSDT	 Time:2021-06-12 17:06:40.561000	 Ticks:1	 RPCh:-0.17	 TPCh:0.17	 VCh:0.09	 LP:52.711	 LV:605944.65	[0m
+
+Top Ticks
+[31mSymbol:UMAUSDT	 Time:2021-06-12 17:06:43.487000	 Ticks:1	 RPCh:-0.43	 TPCh:0.43	 VCh:0.06	 LP:11.318	 LV:285509.115	[0m
+Top Total Volume Change
+[32mSymbol:CTSIUSDT	 Time:2021-06-12 17:06:43.609000	 Ticks:1	 RPCh:0.42	 TPCh:0.42	 VCh:0.15	 LP:0.572	 LV:16575489.5	[0m
+
+Top Ticks
+[31mSymbol:BARUSDT	 Time:2021-06-12 17:06:45.468000	 Ticks:1	 RPCh:-0.22	 TPCh:0.22	 VCh:0.06	 LP:16.402	 LV:315017.288	[0m
+
+Top Ticks
+[32mSymbol:UTKUSDT	 Time:2021-06-12 17:06:46.573000	 Ticks:1	 RPCh:0.18	 TPCh:0.18	 VCh:0.06	 LP:0.338	 LV:168047166.95	[0m
+
+Top Ticks
+[31mSymbol:MBLUSDT	 Time:2021-06-12 17:06:47.587000	 Ticks:1	 RPCh:-0.48	 TPCh:0.48	 VCh:0.05	 LP:0.006664	 LV:710898203.0	[0m
+
+Top Ticks
+[32mSymbol:AKROUSDT	 Time:2021-06-12 17:06:56.475000	 Ticks:2	 RPCh:0.15	 TPCh:0.26	 VCh:0.15	 LP:0.021091	 LV:194051917.0	[0m
+
+Top Ticks
+[31mSymbol:CTXCUSDT	 Time:2021-06-12 17:06:59.614000	 Ticks:2	 RPCh:-1.12	 TPCh:1.12	 VCh:0.23	 LP:0.2031	 LV:58825178.0	[0m
+
+Top Total Price Change
+[31mSymbol:BCHDOWNUSDT	 Time:2021-06-12 17:07:05.520000	 Ticks:1	 RPCh:-2.26	 TPCh:2.26	 VCh:0.25	 LP:0.995	 LV:1116414.71	[0m
+
+Top Ticks
+[32mSymbol:ZENUSDT	 Time:2021-06-12 17:07:12.587000	 Ticks:2	 RPCh:0.00	 TPCh:0.25	 VCh:0.20	 LP:80.5	 LV:225861.5412	[0m
+
